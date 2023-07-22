@@ -4,10 +4,10 @@ This project aim to provide insight into how best to manage employees and reach 
 
 The analysis has been done using the following Python libraries:
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
+     Pandas
+     NumPy
+     Matplotlib
+     Seaborn
 
 
 
